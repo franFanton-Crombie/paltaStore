@@ -1,5 +1,6 @@
-import Layout from 'components/Layout/Layout'
+import Layout from '@components/Layout/Layout'
 import { AppProps } from 'next/app'
+import React from 'react'
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (

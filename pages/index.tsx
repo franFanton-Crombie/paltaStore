@@ -1,4 +1,3 @@
-import Navbar from 'components/Navbar/Navbar'
 import React, { useEffect, useState } from 'react'
 
 const HomePage = () => {
